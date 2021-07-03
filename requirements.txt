@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+larq
+larq_zoo
+opencv-python-headless
+altair
+pandas
